@@ -6,7 +6,7 @@ public class YouTubeMp3Downloader {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String rutaDestino = "C:\\Users\\hanse\\OneDrive\\Escritorio\\Musica\\%(title)s.%(ext)s";
+        String rutaDestino = "C:\\Users\\ruta\\%(title)s.%(ext)s";
 
         System.out.println("Los archivos se guardarán en: " + rutaDestino);
         System.out.println("Escribe 'salir' para cerrar el programa.\n");
