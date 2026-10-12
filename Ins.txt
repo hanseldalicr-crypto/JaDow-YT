@@ -1,0 +1,6 @@
+winget install yt-dlp
+winget install --id yt-dlp.yt-dlp -e
+winget install ffmpeg
+
+javac YouTubeMp3Downloader.java
+java YouTubeMp3Downloader
