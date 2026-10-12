@@ -18,7 +18,7 @@ winget install --id yt-dlp.yt-dlp -e
 winget install --id Gyan.FFmpeg -e
 ## Instalación y Uso
 Clona este repositorio:
-git clone https://github.com/tu-usuario/nombre-del-repo.git
+git clone https://github.com/hanseldalicr-crypto/JaDow-YT.git
 Navega al directorio del proyecto:
 cd nombre-del-repo
 Compila el archivo fuente:
